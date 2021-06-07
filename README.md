@@ -1,2 +1,2 @@
-# Simple-Pizza-Order
+# Multiplication Table Generator
 
